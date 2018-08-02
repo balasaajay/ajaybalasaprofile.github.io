@@ -86,3 +86,23 @@ Industry experience in Network configuration, Configuration Management, Build, D
 - Configure and administer Polycom VoIP phones and maintain PBX server
 
 ### Education
+
+#### San Jose State University
+##### Master of Science (M.S.)
+##### Electrical Engineering - Computer Networks
+##### 2014-2016
+##### San Jose, CA
+- Network Programming in C/Python and applications
+- Network Security
+- Voice and Media over IP
+- Internetworking
+- Broadband communication networks
+- Advanced Digital System Design and Synthesis 
+- Semiconductor Devices I 
+- Linear System Theory
+
+#### Siddharth Institute of Engg and Technology, JNTU Anantapur,India
+##### Bachelor's degree
+##### Electronics and Communications Engineering
+##### 2009-2013
+##### Tirupati, India
