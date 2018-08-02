@@ -1,32 +1,20 @@
 ## Welcome to My site - Ajay Balasa
 
-You can use the [editor on GitHub](https://github.com/balasaajay/ajaybalasaprofile.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Software Engineer - DevOps at Xilinx
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skill Set
 
-### Markdown
+Industry experience in Network configuration, Configuration Management, Build, Deploy (DevOps) and Manual QA. Graduate Student with Masters Degree in Electrical Engineering, specializing in Computer Networking from San José State University, San Jose, California.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Skills:
+Protocols: Layer 2(ARP, VLAN,VXLAN), Layer 3(IPV4, IPV6,OSPF, BGP), Layer 4(TCP, UDP) 
+Concepts & Technologies: All CCNA concepts, NAT, ACLs, Network Programming, System Administration, Troubleshooting, Virtualization
+Operating Systems: Cisco IOS, Linux (RHEL 7, Ubuntu, Alpine3.3), Windows 
+Servers: Tomcat, Apache HTTPD
+Tools: Wireshark, Mininet, Git/Gerrit, Jenkins, Maven, Ansible, Openstack, docker, docker-compose, Marathon, Mesos, Kafka
+Databases: MySQL
+Programming Languages: C and Socket programming in C
+Scripting: Python, Shell
 
 ### Jekyll Themes
 
